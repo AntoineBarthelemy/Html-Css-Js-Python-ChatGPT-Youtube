@@ -1,0 +1,23 @@
+
+
+1) Lors du click sur le boutons d'envoie (dans la 
+première partie du site) Il y a une fonctionnalité qui affiche le statut d'avancement de sa vidéo ( de la source à l'arrivée.)
+Il n'y a que deux état possible . Le status "Téléchargement de la vidéo..." et le status "Terminé !", il faudrait un ajout 
+du traitement de la transciption, de la conversion.
+
+2) Lorsque l'url n'est pas valide, le script ne se met pas en place mais le status "Téléchargement de la vidéo..." quand à lui
+à lieu, ce qui n'est pas logique pas propre et pas professionnelle, ce qui va etre rapidement corrigé pour laissé place à un
+messages indiquant que l'url n'est pas valide 
+
+3) Le fait que si l'utilisateur( malveillant ou non), veuillent relancer le meme formulaire une autre fois avec la meme url
+un blocage s'éxecute lui indiquant qu'il peut utiliser la partie "QUESTIONS ET RÉPONSES EN CONTINU" pour comme le dit le titre
+intérroger gpt sur la vidéo.
+
+4) Je me suis inscrit sur la liste d'attente d'open AI pour bénificier plus rapidement de l'api gpt-4, ce qui améliorait encore
+plus l'expérience utilisateurs.
+
+5) L'ajout d'audio directement depuis son ordinateur (localement). En plus d'une analyse fourni de Gpt, une vitesse de rendu
+plus rapide car le télechargement n'est pas à faire, le convertissement pas souvent car le Mp3 est très utilisé.  
+
+6) Le fait que l'utilisateur puissent varié le nombre de token ≈ (mots) pour les réponses. Par défaut le nombres de tokens
+sera fixé à 200. Mais l'utilisateur pourra ossciler entre 200 à 800 (par exemple). 

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gpt Youtube</title>
+    <link rel="stylesheet" href="index2.css">
+    </head>
+   
+    <body>
+    <div class="bubbles"></div>
+    <h1>Gpt Youtube</h1>
+    <div class="styled-container url-container">
+        <input type="url" name="youtube-url" id="youtube-url" placeholder="Entrez l'URL de la vidéo YouTube">
+    </div>
+    <div class="questions-container">
+        <div class="styled-container question-container">
+            <textarea name="question1" id="question1" placeholder="Question 1" maxlength="85"></textarea>
+        </div>
+        <div class="styled-container question-container">
+            <textarea name="question2" id="question2" placeholder="Question 2" maxlength="85"></textarea>
+        </div>
+        <div class="styled-container question-container">
+            <textarea name="question3" id="question3" placeholder="Question 3" maxlength="85"></textarea>
+        </div>
+    </div>
+    <button>Envoyer</button>
+    <h2>Réponses de GPT</h2>
+    <div id="progress-status"></div>
+    <div class="gpt-boxes-container">
+        <div class="gpt-box">
+            <h3>GPT/1</h3>
+            <p id="pop1"></p>
+        </div>
+        <div class="gpt-box">
+            <h3>GPT/2</h3>
+            <p id="pop2"></p>
+        </div>
+        <div class="gpt-box">
+            <h3>GPT/3</h3>
+            <p id="pop3"></p>
+        </div>
+    </div>
+    <div class="interactive-section">
+        <h2>Questions et réponses en continu</h2>
+        <p>Vous pouvez poser des questions supplémentaires sur la transcription en utilisant le champ ci-dessous :</p>
+        <input type="text" id="interactive-input" class="interactive-input" placeholder="Tapez votre question ici...">
+
+        <button id="interactive-submit" class="interactive-btn">Envoyer ²</button>
+        <div id="interactive-response" class="interactive-response">
+            <h3>Réponse :</h3>
+            <p id="interactive-answer"></p>
+        </div>
+    </div>
+    <div class="copyright"></div>
+    <p>2023, The goal:  Build a full project using the powerful GPT-4 and human logic </p>
+    
+<script src="index2.js"></script>
+</body>
+</html>

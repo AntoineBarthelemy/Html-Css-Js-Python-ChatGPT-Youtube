@@ -1,0 +1,60 @@
+ 
+""" Petite Introduction: je t'ai déja dit Hassan que j'adore crée, et que personnement je peux me reposer sur mes loriers et 
+ faire comme mon père et jouir des vignes. Ou bien travailler chez Mac Donalads et etre payé une misaire par rapport à des 
+patrons qui touchent une fortune collosalle. Mais moi, je veux essayer échouer crée, faire parler mon imagination et ne pas 
+etre limité par le facteur connaissances( c'est d'ailleurs pour sa que j'ai pris gpt-4.)J'ai envie d'avoir du mérite dans ce
+que je fais et j'entreprends et j'aime essayer des choses, alors tu comprends bien que ce projet n'aurait pu etre réalisé en 
+aucun cas tout seule, car le python nécessite un travail constant et beaucoup d'expériences (plusieurs années.) Mais tu 
+comprends par la meme occcasion que si je n'aurais perceverer , je n'aurais pas réussi, c'est grace à ma determination et à 
+mon objectif. Je sais pertinament que Chat gpt dans quelques semaines peut sortir une mise à jour avec l'intégration d'audio,
+vidéo, images etc. Mais au delà de sa ce projet m'a permit de m'améliorer en programmation , en résolution de problèmes,
+en reflexion (en cherchant des fonctionnalités innovantes qui ont chacun leurs interet)
+
+Ps: Je ne vais pas te mettre tous les prompts et concepts possible avec cette application web car les possibilités sont infinies.
+
+
+FONCTIONNEMENT DE L'APPLICATION WEB :
+
+Mon objectif dans ce projet: Il reste beaucoup de chose à réaliser et celà préoccupe beaucoup ma pensée (en bien). Il y a 
+tant d'améliorations possibles et d'idée à explorer que je note sur un tableau pour ne pas oublier. """
+
+Commandes utiles: 
+
+pip install -r requirements.txt
+
+Nom des fichiers:
+"index2.html
+ index2.js
+ index2.css"
+
+Main Script:
+gpt_youtube.py
+
+Flask:
+app2.py
+
+Fichiers Json:
+atomic-graph-385209-2255df6e2d73.json
+
+File hierarchy:
+
+    Dossier templates
+    { index2.html
+      index2.js
+      index2.css"
+      gpt_youtube.py
+      app2.py
+atomic-graph-385209-2255df6e2d73.json
+
+
+Ma version python:
+Python 3.11.3
+
+
+
+
+
+
+
+
+

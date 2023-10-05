@@ -1,0 +1,19 @@
+"Ton Objectif"
+J'aimerais beaucoup que tu améliores considérablement la vitesse d'execution des étapes. Pour que le besoin de l'utilisateur
+soit assez rapidement rendu. Dans l'objectif d'obtenir un réel interet d'utiliser cetta application web, un réel gain de temps.
+Tu sais pertinament que cela dépend de beaucoup de facteurs comme la rapidité de la connexion internet, le nombre d'utilisateurs
+qui le demande etc etc
+
+Dans mon projet j'utilise l'api Speech-To-text de google. Il me semble que open AI ont ou vont mettre en place prochainement
+une api Speech-To-Text. Cela permettrai de gagner du temps sur la vitesse d'execution car le packet entre la transcription
+et les commentaire des Gpt seront beaucoup plus proches.
+
+
+Ce que j'ai déja mit en place pour la rapidité: Le télechargement se fait avec une piste audio la moins bonne (qui n'impacte pas
+là suite). "mp3_audio_stream = youtubevideo.streams.filter(
+        only_audio=True, mime_type="audio/mp3").order_by('abr').first()"
+
+Une bonne disposition du projet, un répartissement aéré avec des fichiers assez structurés et bien répartis.
+
+
+Ps: Si tu as des idées concernant le projet (des fonctionnalitées ou autre), tu peux absolument me le faire savoir. Je suis preneur!!

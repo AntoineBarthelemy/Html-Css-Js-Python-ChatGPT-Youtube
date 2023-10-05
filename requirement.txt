@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pytube
+moviepy
+google-cloud-storage
+google-cloud-speech
+openai
