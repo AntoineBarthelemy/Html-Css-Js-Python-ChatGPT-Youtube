@@ -7,7 +7,7 @@ import re
 from google.cloud import storage
 import openai
 
-openai.api_key = "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"
+openai.api_key = "#Secret"
 
 
 def transcribe_audio_file(file_path, language_code):
