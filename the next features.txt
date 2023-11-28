@@ -21,3 +21,4 @@ plus rapide car le télechargement n'est pas à faire, le convertissement pas so
 
 6) Le fait que l'utilisateur puissent varié le nombre de token ≈ (mots) pour les réponses. Par défaut le nombres de tokens
 sera fixé à 200. Mais l'utilisateur pourra ossciler entre 200 à 800 (par exemple). 
+test
