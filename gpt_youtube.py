@@ -6,7 +6,7 @@ from google.cloud.speech_v1p1beta1 import types
 import re
 from google.cloud import storage
 import openai
-
+#Secret area
 openai.api_key = "#Secret"
 
 
